@@ -22,9 +22,9 @@ A dynamic dashboard built using Power BI to analyze HR data including:
 ![Dashboard Screenshot](path-to-your-image)
 
 ## 📂 Files
-- `HR_Analytics.csv` – Source dataset
-- `.pbix` – Power BI Dashboard file
-- `README.md` – Project documentation
+- `HR_Analytics.csv` – Source dataset<a href='https://github.com/Sameersito010/HR-Analytics-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-07-15%20233803.png'>CSV</a>
+- `.pbix` – Power BI Dashboard file <a href='https://github.com/Sameersito010/HR-Analytics-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-07-15%20233803.png'>DASHBORAD</a>
+
 
 
 
